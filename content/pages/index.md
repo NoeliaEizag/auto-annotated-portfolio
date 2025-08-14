@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Inicio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -10,16 +10,17 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - elementId: hero
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: Bienvenida a mi espacio
+    subtitle: Soy Noelia Eizag, creadora de Cartografía de Almas.
+    
+    Transformo emociones en palabras que sanan, inspiran y conectan.
+    Acompaño a personas a descubrir y expresar su voz más auténtica a través de la escritura y la reflexión emocional.
+    
+    Aquí encontrarás historias, recursos y servicios creados con un propósito: ayudarte a poner en palabras lo que sientes y quieres manifestar. Explora, conecta y déjate inspirar.
+    Desplázate hacia abajo para descubrir mis proyectos, servicios y creaciones más recientes.
     styles:
       self:
         height: auto
